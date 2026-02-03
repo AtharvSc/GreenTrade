@@ -1,7 +1,7 @@
 # 🌍 GreenTrade: AI-Powered Carbon Marketplace
 
 <div align="center">
-  <img src="src/app/favicon.ico" alt="GreenTrade Logo" width="100" />
+  <img src="public/logo.png" alt="GreenTrade Logo" width="200" />
   <br />
   <br />
 
