@@ -14,8 +14,14 @@
   <h3>Democratizing Sustainability with AI & Blockchain</h3>
   <p>Track. Trade. Offset. Verify.</p>
 
-  [**View Screenshot**](#-project-screenshot) • [**Features**](#-key-features) • [**Tech Stack**](#-tech-stack) • [**Getting Started**](#-getting-started)
+  [**Live Demo**](https://green-trade-three.vercel.app/) • [**View Screenshot**](#-project-screenshot) • [**Features**](#-key-features) • [**Tech Stack**](#-tech-stack) • [**Getting Started**](#-getting-started)
 </div>
+
+---
+
+## 🌐 Live Demo
+
+Experience the platform live: **[green-trade-three.vercel.app](https://green-trade-three.vercel.app/)**
 
 ---
 
@@ -81,7 +87,7 @@ Users can calculate their footprint using AI, buy verified credits using Crypto 
 
 1.  **Clone the repository**
     ```bash
-    git clone https://github.com/ShreyasDambalkar/GreenTrade.git
+    git clone https://github.com/AtharvSc/GreenTrade.git
     cd GreenTrade
     ```
 
@@ -148,5 +154,5 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ---
 
 <div align="center">
-  Built with 💚 and ☕ by <b>GreenTrade Team</b>
+  Built with 💚 and ☕ by <b>Atharv Chougule</b>
 </div>
