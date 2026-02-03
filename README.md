@@ -9,7 +9,6 @@
   [![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue?style=for-the-badge&logo=typescript)](https://www.typescriptlang.org/)
   [![Thirdweb](https://img.shields.io/badge/Thirdweb-SDK-f213c4?style=for-the-badge&logo=thirdweb)](https://thirdweb.com/)
   [![Supabase](https://img.shields.io/badge/Supabase-Database-3ecf8e?style=for-the-badge&logo=supabase)](https://supabase.com/)
-  [![Gemini AI](https://img.shields.io/badge/AI-Google%20Gemini-8e75b2?style=for-the-badge&logo=google)](https://deepmind.google/technologies/gemini/)
 
   <h3>Democratizing Sustainability with AI & Blockchain</h3>
   <p>Track. Trade. Offset. Verify.</p>
